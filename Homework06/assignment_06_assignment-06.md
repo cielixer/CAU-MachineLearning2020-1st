@@ -39,7 +39,7 @@
 
 - load the training data from the file and plot the points
 
- python
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -62,7 +62,7 @@ plt.tight_layout()
 plt.gca().set_aspect('equal', adjustable='box')
 plt.show()
 
-
+```
 <img src="data-nonlinear.png"  width="500">
 
 ## Submission
